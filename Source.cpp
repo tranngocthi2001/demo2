@@ -37,6 +37,12 @@ int main()
 	}
 cong(a, b);
 
+//minhluan
+	bool kiemTraChan(int so)
+	{
+		return so % 2 ==0;
+	}
+
 >>>>>>> fd8bba902065590ee438f6ac8275cced346f9a4f
 >>>>>>> 8dd1871b269a7ebdf4aa6508d39b9c25f7d49f8a
 	cout << endl;
