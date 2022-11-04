@@ -37,6 +37,12 @@ int main()
 	}
 cong(a, b);
 
+//TranVanNgocThi
+int soChiaHetCho3Va5(int n){
+	if(n%3==0&&n%5==0)
+		return n;
+}soChiaHetCho3Va5(n);
+
 >>>>>>> fd8bba902065590ee438f6ac8275cced346f9a4f
 >>>>>>> 8dd1871b269a7ebdf4aa6508d39b9c25f7d49f8a
 	cout << endl;
