@@ -37,11 +37,19 @@ int main()
 	}
 cong(a, b);
 
+<<<<<<< HEAD
 //minhluan
 	bool kiemTraChan(int so)
 	{
 		return so % 2 ==0;
 	}
+=======
+//TranVanNgocThi
+int soChiaHetCho3Va5(int n){
+	if(n%3==0&&n%5==0)
+		return n;
+}soChiaHetCho3Va5(n);
+>>>>>>> 0a89d1ca83295cc81b74f5692ab8eebec87df513
 
 >>>>>>> fd8bba902065590ee438f6ac8275cced346f9a4f
 >>>>>>> 8dd1871b269a7ebdf4aa6508d39b9c25f7d49f8a
